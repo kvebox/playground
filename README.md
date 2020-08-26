@@ -17,6 +17,10 @@
     <img src="assets/previews/014_TODO_List.png" width="200">
     <img src="assets/previews/015_Asteroids.png" width="200">
     <img src="assets/previews/016_Space_Invaders.png" width="200">
+    <img src="assets/previews/019_Orbits.png" width="200">
+    <img src="assets/previews/021_Calendar.png" width="200">
+    <img src="assets/previews/023_Nutritional_Label.png" width="200">
+    <img src="assets/previews/029_Vertical_Shooter.png" width="200">
 </div>
 
 <!-- <img src="assets/previews/" width="200"> -->
