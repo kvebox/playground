@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>eyedropperCursor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="eyedropperCursor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(1.251682, 0.751682)">
+            <path d="M15.554,9.0972 L24.581,18.1232" id="Stroke-1" stroke="#231F20" stroke-width="2" stroke-linecap="round"></path>
+            <g id="Group-14" transform="translate(0.000000, 0.677300)">
+                <g id="Group-5" transform="translate(16.000000, 0.000000)">
+                    <path d="M7.261,16.126 L15.128,8.259 L15.355,8.03 C17.118,6.269 17.118,3.409 15.355,1.646 C13.592,-0.118 10.733,-0.118 8.97,1.646 L8.742,1.873 L0.874,9.74" id="Fill-2" fill="#231F20"></path>
+                    <path d="M7.261,16.126 L15.128,8.259 L15.355,8.03 C17.118,6.269 17.118,3.409 15.355,1.646 C13.592,-0.118 10.733,-0.118 8.97,1.646 L8.742,1.873 L0.874,9.74" id="Stroke-4" stroke="#231F20" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+                <path d="M4.9553,30.6318 C6.1973,30.9968 7.5963,30.6888 8.5763,29.7078 L9.7663,28.5188 L22.7083,15.5748" id="Stroke-6" stroke="#231F20" stroke-width="2"></path>
+                <path d="M17.5354,10.4014 L4.5924,23.3434 L3.4024,24.5344 C2.4674,25.4684 2.1444,26.7844 2.4334,27.9824" id="Stroke-8" stroke="#231F20" stroke-width="2"></path>
+                <path d="M2.4368,27.9756 L1.1318,29.2816 L0.5358,29.8766 C-0.1782,30.5906 -0.1782,31.7496 0.5358,32.4636 C1.2498,33.1786 2.4088,33.1786 3.1238,32.4636 L3.7188,31.8696 L4.9568,30.6306" id="Stroke-10" stroke="#231F20" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M11.8606,16.0762 L17.0356,21.2512" id="Stroke-12" stroke="#231F20" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
