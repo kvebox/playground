@@ -1,5 +1,11 @@
 # 100 Days Playground
 
+### Overview
+(WIP) Collection of 100 Frontend/ Design/ Game Projects.
+
+Projects can be viewed via [personal website](https://www.vhjoh.com/p/100days.html) or on [Code Pen](https://codepen.io/collection/nvQQLo).
+
+### Project Preview Images
 <div display="flex">
     <img src="assets/previews/001_Colorbar_Piano.png" width="200" />
     <img src="assets/previews/002_Calculator.png" width="200" />
